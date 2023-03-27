@@ -1,0 +1,6 @@
+# Git
+git init
+git remote add origin {{GIT REPO URL}}
+git add .
+git commit -m "Message"
+git push origin master

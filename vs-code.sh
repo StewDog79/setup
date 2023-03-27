@@ -8,10 +8,11 @@ if [[ $? -eq 0 ]];then
         ok "Installing extensions please wait..."
         code --install-extension esbenp.prettier-vscode
         code --install-extension ms-vsliveshare.vsliveshare
+        code --install-extension hashicorp.terraform
+        code --yzhang.markdown-all-in-one
         # code --install-extension foxundermoon.shell-format
         # code --install-extension glenn2223.live-sass
         # code --install-extension GrapeCity.gc-excelviewer
-        # code --install-extension hashicorp.terraform
         # code --install-extension mechatroner.rainbow-csv
         # code --install-extension mohd-akram.vscode-html-format
         # code --install-extension ms-python.isort
