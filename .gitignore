@@ -1,2 +1,2 @@
-#ingore config files
-config-files/.aws/credentials
+#ingore aws config files
+conf-files/aws/.aws/config
