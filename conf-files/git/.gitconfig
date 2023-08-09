@@ -1,3 +1,6 @@
 [user]
 email = allan@workio.co
 name = Allan Stewart
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential

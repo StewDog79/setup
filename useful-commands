@@ -4,3 +4,5 @@ git remote add origin {{GIT REPO URL}}
 git add .
 git commit -m "Message"
 git push origin master
+
+gh repo create rust-bls --public --source=. --remote=upstream --push
